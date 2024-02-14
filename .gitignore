@@ -1,4 +1,7 @@
 /.env
+# Ignore train.csv
+train.csv
+
 # Ignore all CSV files
 *.csv
 
