@@ -1,5 +1,4 @@
 /.env
-/.train.csv
-/.test.csv
-/.transaction.csv
-/.sample_submission.csv
+# Ignore all CSV files
+*.csv
+
